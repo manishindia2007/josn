@@ -1,4 +1,4 @@
-[
+{"data":[
   { "ID": 1, "ProductName": "Moto G5", "Quantity": 2, "Price": "Rs 13000" },
   {
     "ID": 2,
@@ -13,3 +13,4 @@
     "Price": "Rs 50000"
   }
 ]
+}
